@@ -1,5 +1,6 @@
  <?php
 
- 	echo "Hello Linea";
+ 	echo "Olá Linea";
+  echo "Renan Rib";
 
  ?>
